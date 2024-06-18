@@ -1,6 +1,6 @@
 # Step Counter App
 
-Welcome to the Step Counter App, created with Expo.
+Welcome to the Step Counter App, created with Expo, React Native.
 
 ## Introduction
 
@@ -12,21 +12,26 @@ This project is a step counter application developed using Expo, a platform for 
 - **Animated Visuals**: Engage with animated components to enhance user experience.
 - **File-Based Routing**: Organize your application structure using file-based routing provided by Expo.
 
-## Get started
+ Get started
 
 1. **Install dependencies**
 
-   ```bash
+   ```
    npm install
+   ```
+2.Start the app
 
-2.	Start the app
-   ```bash
+   ```
    npx expo start
+   ```
 
-2.	In the output, you’ll find options to open the app in a:
-	•	development build
-	•	Android emulator
-	•	iOS simulator
-	•	Expo Go, a limited sandbox for trying out app development with Expo
-You can start developing by editing the files inside the app directory. This project uses file-based routing.
+This application is for example purposes. You can customize the application according to your needs.
+To develop the application, you need to have knowledge of React Native, Expo, React Navigation, and Hugging Face.js.
 
+### Contributing
+
+We welcome your contributions! Please submit a pull request for new features or create a branch to fix bugs.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
